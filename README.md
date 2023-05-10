@@ -1,6 +1,6 @@
 # Introduzione
 
-Questo repository contiene un'implementazione de [Il Gioco della Vita di Conway (Conway's Game of Life)](https://en.wikipedia.org/wiki/The_Game_of_Life).
+Questo repository contiene un'implementazione de [Il Gioco della Vita di Conway (Conway's Game of Life)](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 Il codice presente in questo repository è stato scritto durante le riprese del video [**CA-23-007**](https://youtu.be/GNoGjcKBIzU) del canale YouTube [AFK](https://www.youtube.it/@valerio_afk).
 
